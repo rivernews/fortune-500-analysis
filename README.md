@@ -1,6 +1,10 @@
 # fortune-500-analysis
 
-# Dependencies
+## TODO
+
+- Scroll down to load more of the list
+
+## Dependencies
 
 - [requests](http://docs.python-requests.org/en/master/)
 - [Selenium Walkthrough](https://medium.com/the-andela-way/introduction-to-web-scraping-using-selenium-7ec377a8cf72)
