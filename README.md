@@ -2,7 +2,9 @@
 
 ## TODO
 
-- Scroll down to load more of the list
+- [ ] Have to handle case when there's only one result, gd page will be different.
+- [ ] We also need review # for reliability check
+- ~~Scroll down to load more of the list~~
 
 ## Dependencies
 
