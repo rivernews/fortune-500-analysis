@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/fortune-500-analysis/precache-manifest.f061a07b88b7d8f6c7c49f82584981c8.js"
+  "/fortune-500-analysis/precache-manifest.09446f0b26914b957c79791bc730c2d9.js"
 );
 
 workbox.clientsClaim();
