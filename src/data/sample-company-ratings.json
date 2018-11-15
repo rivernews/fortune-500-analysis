@@ -1,0 +1,5239 @@
+{
+    "exceptions": [
+        {
+            "accessURL": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=10&suggestChosen=false&clickSource=searchBtn&typedKeyword=Dell Technologies&sc.keyword=Dell Technologies&locT=C&locId=&jobType=",
+            "companyTitle": "Dell Technologies",
+            "exceptionMessage": "Message: no such element: Unable to locate element: {\"method\":\"class name\",\"selector\":\"ratingNum\"}\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.14.0 x86_64)\n",
+            "exceptionType": "NoSuchElementException",
+            "index": 34
+        },
+        {
+            "accessURL": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=10&suggestChosen=false&clickSource=searchBtn&typedKeyword=Dell Technologies&sc.keyword=Dell Technologies&locT=C&locId=&jobType=",
+            "companyTitle": "Dell Technologies",
+            "exceptionMessage": "Message: stale element reference: element is not attached to the page document\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.14.0 x86_64)\n",
+            "exceptionType": "Exception",
+            "index": 34
+        },
+        {
+            "accessURL": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=10&suggestChosen=false&clickSource=searchBtn&typedKeyword=US Foods Holding&sc.keyword=US Foods Holding&locT=C&locId=&jobType=",
+            "companyTitle": "US Foods Holding",
+            "exceptionMessage": "Message: no such element: Unable to locate element: {\"method\":\"class name\",\"selector\":\"ratingNum\"}\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.14.0 x86_64)\n",
+            "exceptionType": "NoSuchElementException",
+            "index": 120
+        },
+        {
+            "accessURL": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=10&suggestChosen=false&clickSource=searchBtn&typedKeyword=US Foods Holding&sc.keyword=US Foods Holding&locT=C&locId=&jobType=",
+            "companyTitle": "US Foods Holding",
+            "exceptionMessage": "Message: stale element reference: element is not attached to the page document\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.14.0 x86_64)\n",
+            "exceptionType": "Exception",
+            "index": 120
+        },
+        {
+            "accessURL": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=10&suggestChosen=false&clickSource=searchBtn&typedKeyword=Bristol-Myers Squibb&sc.keyword=Bristol-Myers Squibb&locT=C&locId=&jobType=",
+            "companyTitle": "Bristol-Myers Squibb",
+            "exceptionMessage": "Message: timeout\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.14.0 x86_64)\n",
+            "exceptionType": "Exception",
+            "index": 144
+        },
+        {
+            "accessURL": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=10&suggestChosen=false&clickSource=searchBtn&typedKeyword=Jefferies Financial Group&sc.keyword=Jefferies Financial Group&locT=C&locId=&jobType=",
+            "companyTitle": "Jefferies Financial Group",
+            "exceptionMessage": "Message: no such element: Unable to locate element: {\"method\":\"class name\",\"selector\":\"ratingNum\"}\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.14.0 x86_64)\n",
+            "exceptionType": "NoSuchElementException",
+            "index": 240
+        },
+        {
+            "accessURL": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=10&suggestChosen=false&clickSource=searchBtn&typedKeyword=Jefferies Financial Group&sc.keyword=Jefferies Financial Group&locT=C&locId=&jobType=",
+            "companyTitle": "Jefferies Financial Group",
+            "exceptionMessage": "Message: stale element reference: element is not attached to the page document\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.14.0 x86_64)\n",
+            "exceptionType": "Exception",
+            "index": 240
+        },
+        {
+            "accessURL": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=10&suggestChosen=false&clickSource=searchBtn&typedKeyword=O\u2019Reilly Automotive&sc.keyword=O\u2019Reilly Automotive&locT=C&locId=&jobType=",
+            "companyTitle": "O\u2019Reilly Automotive",
+            "exceptionMessage": "Message: no such element: Unable to locate element: {\"method\":\"class name\",\"selector\":\"ratingNum\"}\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.14.0 x86_64)\n",
+            "exceptionType": "NoSuchElementException",
+            "index": 328
+        },
+        {
+            "accessURL": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=10&suggestChosen=false&clickSource=searchBtn&typedKeyword=O\u2019Reilly Automotive&sc.keyword=O\u2019Reilly Automotive&locT=C&locId=&jobType=",
+            "companyTitle": "O\u2019Reilly Automotive",
+            "exceptionMessage": "Message: stale element reference: element is not attached to the page document\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.14.0 x86_64)\n",
+            "exceptionType": "Exception",
+            "index": 328
+        },
+        {
+            "accessURL": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=10&suggestChosen=false&clickSource=searchBtn&typedKeyword=Yum China Holdings&sc.keyword=Yum China Holdings&locT=C&locId=&jobType=",
+            "companyTitle": "Yum China Holdings",
+            "exceptionMessage": "Message: no such element: Unable to locate element: {\"method\":\"class name\",\"selector\":\"ratingNum\"}\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.14.0 x86_64)\n",
+            "exceptionType": "NoSuchElementException",
+            "index": 396
+        },
+        {
+            "accessURL": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=10&suggestChosen=false&clickSource=searchBtn&typedKeyword=Yum China Holdings&sc.keyword=Yum China Holdings&locT=C&locId=&jobType=",
+            "companyTitle": "Yum China Holdings",
+            "exceptionMessage": "Message: stale element reference: element is not attached to the page document\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.14.0 x86_64)\n",
+            "exceptionType": "Exception",
+            "index": 396
+        },
+        {
+            "accessURL": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=10&suggestChosen=false&clickSource=searchBtn&typedKeyword=Casey\u2019s General Stores&sc.keyword=Casey\u2019s General Stores&locT=C&locId=&jobType=",
+            "companyTitle": "Casey\u2019s General Stores",
+            "exceptionMessage": "Message: no such element: Unable to locate element: {\"method\":\"class name\",\"selector\":\"ratingNum\"}\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.14.0 x86_64)\n",
+            "exceptionType": "NoSuchElementException",
+            "index": 424
+        },
+        {
+            "accessURL": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=10&suggestChosen=false&clickSource=searchBtn&typedKeyword=Casey\u2019s General Stores&sc.keyword=Casey\u2019s General Stores&locT=C&locId=&jobType=",
+            "companyTitle": "Casey\u2019s General Stores",
+            "exceptionMessage": "Message: stale element reference: element is not attached to the page document\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.14.0 x86_64)\n",
+            "exceptionType": "Exception",
+            "index": 424
+        },
+        {
+            "accessURL": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=10&suggestChosen=false&clickSource=searchBtn&typedKeyword=CommScope Holding&sc.keyword=CommScope Holding&locT=C&locId=&jobType=",
+            "companyTitle": "CommScope Holding",
+            "exceptionMessage": "Message: no such element: Unable to locate element: {\"method\":\"class name\",\"selector\":\"ratingNum\"}\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.14.0 x86_64)\n",
+            "exceptionType": "NoSuchElementException",
+            "index": 553
+        },
+        {
+            "accessURL": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=10&suggestChosen=false&clickSource=searchBtn&typedKeyword=CommScope Holding&sc.keyword=CommScope Holding&locT=C&locId=&jobType=",
+            "companyTitle": "CommScope Holding",
+            "exceptionMessage": "Message: stale element reference: element is not attached to the page document\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.14.0 x86_64)\n",
+            "exceptionType": "Exception",
+            "index": 553
+        },
+        {
+            "accessURL": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=10&suggestChosen=false&clickSource=searchBtn&typedKeyword=JELD-WEN Holding&sc.keyword=JELD-WEN Holding&locT=C&locId=&jobType=",
+            "companyTitle": "JELD-WEN Holding",
+            "exceptionMessage": "Message: no such element: Unable to locate element: {\"method\":\"class name\",\"selector\":\"ratingNum\"}\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.14.0 x86_64)\n",
+            "exceptionType": "NoSuchElementException",
+            "index": 624
+        },
+        {
+            "accessURL": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=10&suggestChosen=false&clickSource=searchBtn&typedKeyword=JELD-WEN Holding&sc.keyword=JELD-WEN Holding&locT=C&locId=&jobType=",
+            "companyTitle": "JELD-WEN Holding",
+            "exceptionMessage": "Message: stale element reference: element is not attached to the page document\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.14.0 x86_64)\n",
+            "exceptionType": "Exception",
+            "index": 624
+        },
+        {
+            "accessURL": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=10&suggestChosen=false&clickSource=searchBtn&typedKeyword=Brink\u2019s&sc.keyword=Brink\u2019s&locT=C&locId=&jobType=",
+            "companyTitle": "Brink\u2019s",
+            "exceptionMessage": "Message: no such element: Unable to locate element: {\"method\":\"class name\",\"selector\":\"ratingNum\"}\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.14.0 x86_64)\n",
+            "exceptionType": "NoSuchElementException",
+            "index": 691
+        },
+        {
+            "accessURL": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=10&suggestChosen=false&clickSource=searchBtn&typedKeyword=Brink\u2019s&sc.keyword=Brink\u2019s&locT=C&locId=&jobType=",
+            "companyTitle": "Brink\u2019s",
+            "exceptionMessage": "Message: stale element reference: element is not attached to the page document\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.14.0 x86_64)\n",
+            "exceptionType": "Exception",
+            "index": 691
+        },
+        {
+            "accessURL": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=10&suggestChosen=false&clickSource=searchBtn&typedKeyword=Ashland Global Holdings&sc.keyword=Ashland Global Holdings&locT=C&locId=&jobType=",
+            "companyTitle": "Ashland Global Holdings",
+            "exceptionMessage": "Message: no such element: Unable to locate element: {\"method\":\"class name\",\"selector\":\"ratingNum\"}\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.14.0 x86_64)\n",
+            "exceptionType": "NoSuchElementException",
+            "index": 704
+        },
+        {
+            "accessURL": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=10&suggestChosen=false&clickSource=searchBtn&typedKeyword=Ashland Global Holdings&sc.keyword=Ashland Global Holdings&locT=C&locId=&jobType=",
+            "companyTitle": "Ashland Global Holdings",
+            "exceptionMessage": "Message: stale element reference: element is not attached to the page document\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.14.0 x86_64)\n",
+            "exceptionType": "Exception",
+            "index": 704
+        },
+        {
+            "accessURL": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=10&suggestChosen=false&clickSource=searchBtn&typedKeyword=Evergy&sc.keyword=Evergy&locT=C&locId=&jobType=",
+            "companyTitle": "Evergy",
+            "exceptionMessage": "Message: no such element: Unable to locate element: {\"method\":\"class name\",\"selector\":\"ratingNum\"}\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.14.0 x86_64)\n",
+            "exceptionType": "NoSuchElementException",
+            "index": 816
+        },
+        {
+            "accessURL": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=10&suggestChosen=false&clickSource=searchBtn&typedKeyword=Evergy&sc.keyword=Evergy&locT=C&locId=&jobType=",
+            "companyTitle": "Evergy",
+            "exceptionMessage": "Message: stale element reference: element is not attached to the page document\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.14.0 x86_64)\n",
+            "exceptionType": "Exception",
+            "index": 816
+        },
+        {
+            "accessURL": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=10&suggestChosen=false&clickSource=searchBtn&typedKeyword=Knight-Swift Transportation Holdings&sc.keyword=Knight-Swift Transportation Holdings&locT=C&locId=&jobType=",
+            "companyTitle": "Knight-Swift Transportation Holdings",
+            "exceptionMessage": "Message: no such element: Unable to locate element: {\"method\":\"class name\",\"selector\":\"ratingNum\"}\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.14.0 x86_64)\n",
+            "exceptionType": "NoSuchElementException",
+            "index": 848
+        },
+        {
+            "accessURL": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=10&suggestChosen=false&clickSource=searchBtn&typedKeyword=Knight-Swift Transportation Holdings&sc.keyword=Knight-Swift Transportation Holdings&locT=C&locId=&jobType=",
+            "companyTitle": "Knight-Swift Transportation Holdings",
+            "exceptionMessage": "Message: stale element reference: element is not attached to the page document\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.14.0 x86_64)\n",
+            "exceptionType": "Exception",
+            "index": 848
+        },
+        {
+            "accessURL": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=10&suggestChosen=false&clickSource=searchBtn&typedKeyword=Party City Holdco&sc.keyword=Party City Holdco&locT=C&locId=&jobType=",
+            "companyTitle": "Party City Holdco",
+            "exceptionMessage": "Message: no such element: Unable to locate element: {\"method\":\"class name\",\"selector\":\"ratingNum\"}\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.14.0 x86_64)\n",
+            "exceptionType": "NoSuchElementException",
+            "index": 855
+        },
+        {
+            "accessURL": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=10&suggestChosen=false&clickSource=searchBtn&typedKeyword=Party City Holdco&sc.keyword=Party City Holdco&locT=C&locId=&jobType=",
+            "companyTitle": "Party City Holdco",
+            "exceptionMessage": "Message: stale element reference: element is not attached to the page document\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.14.0 x86_64)\n",
+            "exceptionType": "Exception",
+            "index": 855
+        },
+        {
+            "accessURL": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=10&suggestChosen=false&clickSource=searchBtn&typedKeyword=Chico\u2019s FAS&sc.keyword=Chico\u2019s FAS&locT=C&locId=&jobType=",
+            "companyTitle": "Chico\u2019s FAS",
+            "exceptionMessage": "Message: no such element: Unable to locate element: {\"method\":\"class name\",\"selector\":\"ratingNum\"}\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.14.0 x86_64)\n",
+            "exceptionType": "NoSuchElementException",
+            "index": 880
+        },
+        {
+            "accessURL": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=10&suggestChosen=false&clickSource=searchBtn&typedKeyword=Chico\u2019s FAS&sc.keyword=Chico\u2019s FAS&locT=C&locId=&jobType=",
+            "companyTitle": "Chico\u2019s FAS",
+            "exceptionMessage": "Message: stale element reference: element is not attached to the page document\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.14.0 x86_64)\n",
+            "exceptionType": "Exception",
+            "index": 880
+        },
+        {
+            "accessURL": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=10&suggestChosen=false&clickSource=searchBtn&typedKeyword=NLV Financial&sc.keyword=NLV Financial&locT=C&locId=&jobType=",
+            "companyTitle": "NLV Financial",
+            "exceptionMessage": "Message: no such element: Unable to locate element: {\"method\":\"class name\",\"selector\":\"ratingNum\"}\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.14.0 x86_64)\n",
+            "exceptionType": "NoSuchElementException",
+            "index": 883
+        },
+        {
+            "accessURL": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=10&suggestChosen=false&clickSource=searchBtn&typedKeyword=NLV Financial&sc.keyword=NLV Financial&locT=C&locId=&jobType=",
+            "companyTitle": "NLV Financial",
+            "exceptionMessage": "Message: stale element reference: element is not attached to the page document\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.14.0 x86_64)\n",
+            "exceptionType": "Exception",
+            "index": 883
+        },
+        {
+            "accessURL": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=10&suggestChosen=false&clickSource=searchBtn&typedKeyword=Snyder\u2019s-Lance&sc.keyword=Snyder\u2019s-Lance&locT=C&locId=&jobType=",
+            "companyTitle": "Snyder\u2019s-Lance",
+            "exceptionMessage": "Message: no such element: Unable to locate element: {\"method\":\"class name\",\"selector\":\"ratingNum\"}\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.14.0 x86_64)\n",
+            "exceptionType": "NoSuchElementException",
+            "index": 900
+        },
+        {
+            "accessURL": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=10&suggestChosen=false&clickSource=searchBtn&typedKeyword=Snyder\u2019s-Lance&sc.keyword=Snyder\u2019s-Lance&locT=C&locId=&jobType=",
+            "companyTitle": "Snyder\u2019s-Lance",
+            "exceptionMessage": "Message: stale element reference: element is not attached to the page document\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.14.0 x86_64)\n",
+            "exceptionType": "Exception",
+            "index": 900
+        },
+        {
+            "accessURL": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=10&suggestChosen=false&clickSource=searchBtn&typedKeyword=Delta Tucker Holdings&sc.keyword=Delta Tucker Holdings&locT=C&locId=&jobType=",
+            "companyTitle": "Delta Tucker Holdings",
+            "exceptionMessage": "Message: no such element: Unable to locate element: {\"method\":\"class name\",\"selector\":\"ratingNum\"}\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.14.0 x86_64)\n",
+            "exceptionType": "NoSuchElementException",
+            "index": 955
+        },
+        {
+            "accessURL": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=10&suggestChosen=false&clickSource=searchBtn&typedKeyword=Delta Tucker Holdings&sc.keyword=Delta Tucker Holdings&locT=C&locId=&jobType=",
+            "companyTitle": "Delta Tucker Holdings",
+            "exceptionMessage": "Message: stale element reference: element is not attached to the page document\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.14.0 x86_64)\n",
+            "exceptionType": "Exception",
+            "index": 955
+        },
+        {
+            "accessURL": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=10&suggestChosen=false&clickSource=searchBtn&typedKeyword=Ohio National Mutual&sc.keyword=Ohio National Mutual&locT=C&locId=&jobType=",
+            "companyTitle": "Ohio National Mutual",
+            "exceptionMessage": "Message: no such element: Unable to locate element: {\"method\":\"class name\",\"selector\":\"ratingNum\"}\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.14.0 x86_64)\n",
+            "exceptionType": "NoSuchElementException",
+            "index": 985
+        },
+        {
+            "accessURL": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=10&suggestChosen=false&clickSource=searchBtn&typedKeyword=Ohio National Mutual&sc.keyword=Ohio National Mutual&locT=C&locId=&jobType=",
+            "companyTitle": "Ohio National Mutual",
+            "exceptionMessage": "Message: stale element reference: element is not attached to the page document\n  (Session info: chrome=70.0.3538.102)\n  (Driver info: chromedriver=2.43.600229 (3fae4d0cda5334b4f533bede5a4787f7b832d052),platform=Mac OS X 10.14.0 x86_64)\n",
+            "exceptionType": "Exception",
+            "index": 985
+        }
+    ],
+    "items": [
+        {
+            "companyTitle": "Walmart",
+            "fortune500Rank": 1,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Exxon Mobil",
+            "fortune500Rank": 2,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Berkshire Hathaway",
+            "fortune500Rank": 3,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Apple",
+            "fortune500Rank": 4,
+            "glassdoorRating": 4.0
+        },
+        {
+            "companyTitle": "UnitedHealth Group",
+            "fortune500Rank": 5,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "McKesson",
+            "fortune500Rank": 6,
+            "glassdoorRating": 2.7
+        },
+        {
+            "companyTitle": "CVS Health",
+            "fortune500Rank": 7,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "Amazon.com",
+            "fortune500Rank": 8,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "AT&T",
+            "fortune500Rank": 9,
+            "glassdoorRating": 4.0
+        },
+        {
+            "companyTitle": "General Motors",
+            "fortune500Rank": 10,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Ford Motor",
+            "fortune500Rank": 11,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "AmerisourceBergen",
+            "fortune500Rank": 12,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Chevron",
+            "fortune500Rank": 13,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "Cardinal Health",
+            "fortune500Rank": 14,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Costco",
+            "fortune500Rank": 15,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "Verizon",
+            "fortune500Rank": 16,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Kroger",
+            "fortune500Rank": 17,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "General Electric",
+            "fortune500Rank": 18,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Walgreens Boots Alliance",
+            "fortune500Rank": 19,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "JPMorgan Chase",
+            "fortune500Rank": 20,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Fannie Mae",
+            "fortune500Rank": 21,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Alphabet",
+            "fortune500Rank": 22,
+            "glassdoorRating": 4.1
+        },
+        {
+            "companyTitle": "Home Depot",
+            "fortune500Rank": 23,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Bank of America Corp.",
+            "fortune500Rank": 24,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Express Scripts Holding",
+            "fortune500Rank": 25,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Wells Fargo",
+            "fortune500Rank": 26,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Boeing",
+            "fortune500Rank": 27,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Phillips 66",
+            "fortune500Rank": 28,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Anthem",
+            "fortune500Rank": 29,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Microsoft",
+            "fortune500Rank": 30,
+            "glassdoorRating": 4.1
+        },
+        {
+            "companyTitle": "Valero Energy",
+            "fortune500Rank": 31,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "Citigroup",
+            "fortune500Rank": 32,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Comcast",
+            "fortune500Rank": 33,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "IBM",
+            "fortune500Rank": 34,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Dell Technologies",
+            "fortune500Rank": 35
+        },
+        {
+            "companyTitle": "State Farm Insurance Cos.",
+            "fortune500Rank": 36,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Johnson & Johnson",
+            "fortune500Rank": 37,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Freddie Mac",
+            "fortune500Rank": 38,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Target",
+            "fortune500Rank": 39,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Lowe\u2019s",
+            "fortune500Rank": 40,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Marathon Petroleum",
+            "fortune500Rank": 41,
+            "glassdoorRating": 4.0
+        },
+        {
+            "companyTitle": "Procter & Gamble",
+            "fortune500Rank": 42,
+            "glassdoorRating": 4.0
+        },
+        {
+            "companyTitle": "MetLife",
+            "fortune500Rank": 43,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "UPS",
+            "fortune500Rank": 44,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "PepsiCo",
+            "fortune500Rank": 45,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Intel",
+            "fortune500Rank": 46,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "DowDuPont",
+            "fortune500Rank": 47,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Archer Daniels Midland",
+            "fortune500Rank": 48,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Aetna",
+            "fortune500Rank": 49,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "FedEx",
+            "fortune500Rank": 50,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "United Technologies",
+            "fortune500Rank": 51,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Prudential Financial",
+            "fortune500Rank": 52,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Albertsons Cos.",
+            "fortune500Rank": 53,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Sysco",
+            "fortune500Rank": 54,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Disney",
+            "fortune500Rank": 55,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Humana",
+            "fortune500Rank": 56,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Pfizer",
+            "fortune500Rank": 57,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "HP",
+            "fortune500Rank": 58,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Lockheed Martin",
+            "fortune500Rank": 59,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "AIG",
+            "fortune500Rank": 60,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Centene",
+            "fortune500Rank": 61,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Cisco Systems",
+            "fortune500Rank": 62,
+            "glassdoorRating": 4.0
+        },
+        {
+            "companyTitle": "HCA Healthcare",
+            "fortune500Rank": 63,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Energy Transfer Equity",
+            "fortune500Rank": 64,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Caterpillar",
+            "fortune500Rank": 65,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Nationwide",
+            "fortune500Rank": 66,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Morgan Stanley",
+            "fortune500Rank": 67,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Liberty Mutual Insurance Group",
+            "fortune500Rank": 68,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "New York Life Insurance",
+            "fortune500Rank": 69,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Goldman Sachs Group",
+            "fortune500Rank": 70,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "American Airlines Group",
+            "fortune500Rank": 71,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Best Buy",
+            "fortune500Rank": 72,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Cigna",
+            "fortune500Rank": 73,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Charter Communications",
+            "fortune500Rank": 74,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "Delta Air Lines",
+            "fortune500Rank": 75,
+            "glassdoorRating": 4.2
+        },
+        {
+            "companyTitle": "Facebook",
+            "fortune500Rank": 76,
+            "glassdoorRating": 4.4
+        },
+        {
+            "companyTitle": "Honeywell International",
+            "fortune500Rank": 77,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Merck",
+            "fortune500Rank": 78,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Allstate",
+            "fortune500Rank": 79,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Tyson Foods",
+            "fortune500Rank": 80,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "United Continental Holdings",
+            "fortune500Rank": 81,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Oracle",
+            "fortune500Rank": 82,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Tech Data",
+            "fortune500Rank": 83,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "TIAA",
+            "fortune500Rank": 84,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "TJX",
+            "fortune500Rank": 85,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "American Express",
+            "fortune500Rank": 86,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Coca-Cola",
+            "fortune500Rank": 87,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Publix Super Markets",
+            "fortune500Rank": 88,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Nike",
+            "fortune500Rank": 89,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "Andeavor",
+            "fortune500Rank": 90,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "World Fuel Services",
+            "fortune500Rank": 91,
+            "glassdoorRating": 2.7
+        },
+        {
+            "companyTitle": "Exelon",
+            "fortune500Rank": 92,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Massachusetts Mutual Life Insurance",
+            "fortune500Rank": 93,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Rite Aid",
+            "fortune500Rank": 94,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "ConocoPhillips",
+            "fortune500Rank": 95,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "CHS",
+            "fortune500Rank": 96,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "3M",
+            "fortune500Rank": 97,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "Time Warner",
+            "fortune500Rank": 98,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "General Dynamics",
+            "fortune500Rank": 99,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "USAA",
+            "fortune500Rank": 100,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Capital One Financial",
+            "fortune500Rank": 101,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Deere",
+            "fortune500Rank": 102,
+            "glassdoorRating": 4.0
+        },
+        {
+            "companyTitle": "INTL FCStone",
+            "fortune500Rank": 103,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Northwestern Mutual",
+            "fortune500Rank": 104,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Enterprise Products Partners",
+            "fortune500Rank": 105,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Travelers Cos.",
+            "fortune500Rank": 106,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "Hewlett Packard Enterprise",
+            "fortune500Rank": 107,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Philip Morris International",
+            "fortune500Rank": 108,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Twenty-First Century Fox",
+            "fortune500Rank": 109,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "AbbVie",
+            "fortune500Rank": 110,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Abbott Laboratories",
+            "fortune500Rank": 111,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Progressive",
+            "fortune500Rank": 112,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Arrow Electronics",
+            "fortune500Rank": 113,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Kraft Heinz",
+            "fortune500Rank": 114,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Plains GP Holdings",
+            "fortune500Rank": 115
+        },
+        {
+            "companyTitle": "Gilead Sciences",
+            "fortune500Rank": 116,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Mondelez International",
+            "fortune500Rank": 117,
+            "glassdoorRating": 4.0
+        },
+        {
+            "companyTitle": "Northrop Grumman",
+            "fortune500Rank": 118,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Raytheon",
+            "fortune500Rank": 119,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Macy\u2019s",
+            "fortune500Rank": 120,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "US Foods Holding",
+            "fortune500Rank": 121
+        },
+        {
+            "companyTitle": "U.S. Bancorp",
+            "fortune500Rank": 122,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Dollar General",
+            "fortune500Rank": 123,
+            "glassdoorRating": 2.7
+        },
+        {
+            "companyTitle": "International Paper",
+            "fortune500Rank": 124,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Duke Energy",
+            "fortune500Rank": 125,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Southern",
+            "fortune500Rank": 126,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Marriott International",
+            "fortune500Rank": 127,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Avnet",
+            "fortune500Rank": 128,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Eli Lilly",
+            "fortune500Rank": 129,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Amgen",
+            "fortune500Rank": 130,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "McDonald\u2019s",
+            "fortune500Rank": 131,
+            "glassdoorRating": 4.0
+        },
+        {
+            "companyTitle": "Starbucks",
+            "fortune500Rank": 132,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Qualcomm",
+            "fortune500Rank": 133,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Dollar Tree",
+            "fortune500Rank": 134,
+            "glassdoorRating": 2.5
+        },
+        {
+            "companyTitle": "PBF Energy",
+            "fortune500Rank": 135,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Icahn Enterprises",
+            "fortune500Rank": 136
+        },
+        {
+            "companyTitle": "Aflac",
+            "fortune500Rank": 137,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "AutoNation",
+            "fortune500Rank": 138,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Penske Automotive Group",
+            "fortune500Rank": 139,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Whirlpool",
+            "fortune500Rank": 140,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Union Pacific",
+            "fortune500Rank": 141,
+            "glassdoorRating": 2.7
+        },
+        {
+            "companyTitle": "Southwest Airlines",
+            "fortune500Rank": 142,
+            "glassdoorRating": 4.3
+        },
+        {
+            "companyTitle": "ManpowerGroup",
+            "fortune500Rank": 143,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Thermo Fisher Scientific",
+            "fortune500Rank": 144,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Bristol-Myers Squibb",
+            "fortune500Rank": 145
+        },
+        {
+            "companyTitle": "Halliburton",
+            "fortune500Rank": 146,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Tenet Healthcare",
+            "fortune500Rank": 147,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Lear",
+            "fortune500Rank": 148,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Cummins",
+            "fortune500Rank": 149,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "Micron Technology",
+            "fortune500Rank": 150,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Nucor",
+            "fortune500Rank": 151,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Molina Healthcare",
+            "fortune500Rank": 152,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Fluor",
+            "fortune500Rank": 153,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Altria Group",
+            "fortune500Rank": 154,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Paccar",
+            "fortune500Rank": 155,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Hartford Financial Services",
+            "fortune500Rank": 156,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Kohl\u2019s",
+            "fortune500Rank": 157,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Western Digital",
+            "fortune500Rank": 158,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Jabil",
+            "fortune500Rank": 159,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Community Health Systems",
+            "fortune500Rank": 160,
+            "glassdoorRating": 2.6
+        },
+        {
+            "companyTitle": "Visa",
+            "fortune500Rank": 161,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Danaher",
+            "fortune500Rank": 162,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Kimberly-Clark",
+            "fortune500Rank": 163,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "AECOM",
+            "fortune500Rank": 164,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "PNC Financial Services",
+            "fortune500Rank": 165,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "CenturyLink",
+            "fortune500Rank": 166,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "NextEra Energy",
+            "fortune500Rank": 167,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "PG&E Corp.",
+            "fortune500Rank": 168,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Synnex",
+            "fortune500Rank": 169,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "WellCare Health Plans",
+            "fortune500Rank": 170,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Performance Food Group",
+            "fortune500Rank": 171,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "Sears Holdings",
+            "fortune500Rank": 172,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "Synchrony Financial",
+            "fortune500Rank": 173,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "CarMax",
+            "fortune500Rank": 174,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Bank of New York Mellon",
+            "fortune500Rank": 175,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Freeport-McMoRan",
+            "fortune500Rank": 176,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "Genuine Parts",
+            "fortune500Rank": 177,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Emerson Electric",
+            "fortune500Rank": 178,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "DaVita",
+            "fortune500Rank": 179,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Supervalu",
+            "fortune500Rank": 180,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Gap",
+            "fortune500Rank": 181,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "General Mills",
+            "fortune500Rank": 182,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Nordstrom",
+            "fortune500Rank": 183,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Colgate-Palmolive",
+            "fortune500Rank": 184,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "American Electric Power",
+            "fortune500Rank": 185,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "XPO Logistics",
+            "fortune500Rank": 186,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Goodyear Tire & Rubber",
+            "fortune500Rank": 187,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Omnicom Group",
+            "fortune500Rank": 188,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "CDW",
+            "fortune500Rank": 189,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Sherwin-Williams",
+            "fortune500Rank": 190,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "PPG Industries",
+            "fortune500Rank": 191,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Texas Instruments",
+            "fortune500Rank": 192,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "C.H. Robinson Worldwide",
+            "fortune500Rank": 193,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "WestRock",
+            "fortune500Rank": 194,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Cognizant Technology Solutions",
+            "fortune500Rank": 195,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Newell Brands",
+            "fortune500Rank": 196,
+            "glassdoorRating": 2.6
+        },
+        {
+            "companyTitle": "CBS",
+            "fortune500Rank": 197,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Envision Healthcare",
+            "fortune500Rank": 198,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "Monsanto",
+            "fortune500Rank": 199,
+            "glassdoorRating": 4.0
+        },
+        {
+            "companyTitle": "Aramark",
+            "fortune500Rank": 200,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Applied Materials",
+            "fortune500Rank": 201,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Waste Management",
+            "fortune500Rank": 202,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "DISH Network",
+            "fortune500Rank": 203,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "Illinois Tool Works",
+            "fortune500Rank": 204,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Lincoln National",
+            "fortune500Rank": 205,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "HollyFrontier",
+            "fortune500Rank": 206,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "CBRE Group",
+            "fortune500Rank": 207,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Textron",
+            "fortune500Rank": 208,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Ross Stores",
+            "fortune500Rank": 209,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Principal Financial",
+            "fortune500Rank": 210,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "D.R. Horton",
+            "fortune500Rank": 211,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Marsh & McLennan",
+            "fortune500Rank": 212,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Devon Energy",
+            "fortune500Rank": 213,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "AES",
+            "fortune500Rank": 214,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Ecolab",
+            "fortune500Rank": 215,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Land O\u2019Lakes",
+            "fortune500Rank": 216,
+            "glassdoorRating": 2.3
+        },
+        {
+            "companyTitle": "Loews",
+            "fortune500Rank": 217,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Kinder Morgan",
+            "fortune500Rank": 218,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "FirstEnergy",
+            "fortune500Rank": 219,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Occidental Petroleum",
+            "fortune500Rank": 220,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Viacom",
+            "fortune500Rank": 221,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "PayPal Holdings",
+            "fortune500Rank": 222,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "NGL Energy Partners",
+            "fortune500Rank": 223,
+            "glassdoorRating": 2.6
+        },
+        {
+            "companyTitle": "Celgene",
+            "fortune500Rank": 224,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Arconic",
+            "fortune500Rank": 225,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Kellogg",
+            "fortune500Rank": 226,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Las Vegas Sands",
+            "fortune500Rank": 227,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Stanley Black & Decker",
+            "fortune500Rank": 228,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Booking Holdings",
+            "fortune500Rank": 229,
+            "glassdoorRating": 5.0
+        },
+        {
+            "companyTitle": "Lennar",
+            "fortune500Rank": 230,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "L Brands",
+            "fortune500Rank": 231,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "DTE Energy",
+            "fortune500Rank": 232,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "Dominion Energy",
+            "fortune500Rank": 233,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "Reinsurance Group of America",
+            "fortune500Rank": 234,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "J.C. Penney",
+            "fortune500Rank": 235,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Mastercard",
+            "fortune500Rank": 236,
+            "glassdoorRating": 4.0
+        },
+        {
+            "companyTitle": "BlackRock",
+            "fortune500Rank": 237,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Henry Schein",
+            "fortune500Rank": 238,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Guardian Life Ins. Co. of America",
+            "fortune500Rank": 239,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Stryker",
+            "fortune500Rank": 240,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "Jefferies Financial Group",
+            "fortune500Rank": 241
+        },
+        {
+            "companyTitle": "VF",
+            "fortune500Rank": 242,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "ADP",
+            "fortune500Rank": 243,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Edison International",
+            "fortune500Rank": 244,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Biogen",
+            "fortune500Rank": 245,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "United States Steel",
+            "fortune500Rank": 246,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "Core-Mark Holding",
+            "fortune500Rank": 247,
+            "glassdoorRating": 2.7
+        },
+        {
+            "companyTitle": "Bed Bath & Beyond",
+            "fortune500Rank": 248,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Oneok",
+            "fortune500Rank": 249,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "BB&T Corp.",
+            "fortune500Rank": 250,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Becton Dickinson",
+            "fortune500Rank": 251,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Ameriprise Financial",
+            "fortune500Rank": 252,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Farmers Insurance Exchange",
+            "fortune500Rank": 253,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "First Data",
+            "fortune500Rank": 254,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Consolidated Edison",
+            "fortune500Rank": 255,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "Parker-Hannifin",
+            "fortune500Rank": 256,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Anadarko Petroleum",
+            "fortune500Rank": 257,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Estee Lauder",
+            "fortune500Rank": 258,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "State Street Corp.",
+            "fortune500Rank": 259,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Tesla",
+            "fortune500Rank": 260,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Netflix",
+            "fortune500Rank": 261,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Alcoa",
+            "fortune500Rank": 262,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Discover Financial Services",
+            "fortune500Rank": 263,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Praxair",
+            "fortune500Rank": 264,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "CSX",
+            "fortune500Rank": 265,
+            "glassdoorRating": 2.5
+        },
+        {
+            "companyTitle": "Xcel Energy",
+            "fortune500Rank": 266,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Unum Group",
+            "fortune500Rank": 267,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Universal Health Services",
+            "fortune500Rank": 268,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "NRG Energy",
+            "fortune500Rank": 269,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "EOG Resources",
+            "fortune500Rank": 270,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Sempra Energy",
+            "fortune500Rank": 271,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Toys \u201cR\u201d Us",
+            "fortune500Rank": 272,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Group 1 Automotive",
+            "fortune500Rank": 273,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Entergy",
+            "fortune500Rank": 274,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Molson Coors Brewing",
+            "fortune500Rank": 275,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "L3 Technologies",
+            "fortune500Rank": 276,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Ball",
+            "fortune500Rank": 277,
+            "glassdoorRating": 4.2
+        },
+        {
+            "companyTitle": "AutoZone",
+            "fortune500Rank": 278,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Murphy USA",
+            "fortune500Rank": 279,
+            "glassdoorRating": 2.7
+        },
+        {
+            "companyTitle": "MGM Resorts International",
+            "fortune500Rank": 280,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Office Depot",
+            "fortune500Rank": 281,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Huntsman",
+            "fortune500Rank": 282,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Baxter International",
+            "fortune500Rank": 283,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Norfolk Southern",
+            "fortune500Rank": 284,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "salesforce.com",
+            "fortune500Rank": 285,
+            "glassdoorRating": 4.7
+        },
+        {
+            "companyTitle": "Laboratory Corp. of America",
+            "fortune500Rank": 286,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "W.W. Grainger",
+            "fortune500Rank": 287,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Qurate Retail",
+            "fortune500Rank": 288
+        },
+        {
+            "companyTitle": "Autoliv",
+            "fortune500Rank": 289,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Live Nation Entertainment",
+            "fortune500Rank": 290,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Xerox",
+            "fortune500Rank": 291,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "Leidos Holdings",
+            "fortune500Rank": 292,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Corning",
+            "fortune500Rank": 293,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Lithia Motors",
+            "fortune500Rank": 294,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Expedia Group",
+            "fortune500Rank": 295,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Republic Services",
+            "fortune500Rank": 296,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Jacobs Engineering Group",
+            "fortune500Rank": 297,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Sonic Automotive",
+            "fortune500Rank": 298,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Ally Financial",
+            "fortune500Rank": 299,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "LKQ",
+            "fortune500Rank": 300,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "BorgWarner",
+            "fortune500Rank": 301,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Fidelity National Financial",
+            "fortune500Rank": 302,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "SunTrust Banks",
+            "fortune500Rank": 303,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "IQVIA Holdings",
+            "fortune500Rank": 304,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Reliance Steel & Aluminum",
+            "fortune500Rank": 305,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "Nvidia",
+            "fortune500Rank": 306,
+            "glassdoorRating": 4.5
+        },
+        {
+            "companyTitle": "Voya Financial",
+            "fortune500Rank": 307,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "CenterPoint Energy",
+            "fortune500Rank": 308,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "eBay",
+            "fortune500Rank": 309,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Eastman Chemical",
+            "fortune500Rank": 310,
+            "glassdoorRating": 4.0
+        },
+        {
+            "companyTitle": "American Family Insurance Group",
+            "fortune500Rank": 311,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Steel Dynamics",
+            "fortune500Rank": 312,
+            "glassdoorRating": 4.3
+        },
+        {
+            "companyTitle": "Pacific Life",
+            "fortune500Rank": 313,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Chesapeake Energy",
+            "fortune500Rank": 314,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Mohawk Industries",
+            "fortune500Rank": 315,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Quanta Services",
+            "fortune500Rank": 316,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Advance Auto Parts",
+            "fortune500Rank": 317,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Owens & Minor",
+            "fortune500Rank": 318,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "United Natural Foods",
+            "fortune500Rank": 319,
+            "glassdoorRating": 2.7
+        },
+        {
+            "companyTitle": "Tenneco",
+            "fortune500Rank": 320,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Conagra Brands",
+            "fortune500Rank": 321,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "GameStop",
+            "fortune500Rank": 322,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Hormel Foods",
+            "fortune500Rank": 323,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Hilton Worldwide Holdings",
+            "fortune500Rank": 324,
+            "glassdoorRating": 4.0
+        },
+        {
+            "companyTitle": "Frontier Communications",
+            "fortune500Rank": 325,
+            "glassdoorRating": 2.5
+        },
+        {
+            "companyTitle": "Fidelity National Information Services",
+            "fortune500Rank": 326,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Public Service Enterprise Group",
+            "fortune500Rank": 327,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Boston Scientific",
+            "fortune500Rank": 328,
+            "glassdoorRating": 4.0
+        },
+        {
+            "companyTitle": "O\u2019Reilly Automotive",
+            "fortune500Rank": 329
+        },
+        {
+            "companyTitle": "Charles Schwab",
+            "fortune500Rank": 330,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Global Partners",
+            "fortune500Rank": 331,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "PVH",
+            "fortune500Rank": 332,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "Avis Budget Group",
+            "fortune500Rank": 333,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Targa Resources",
+            "fortune500Rank": 334,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Hertz Global Holdings",
+            "fortune500Rank": 335,
+            "glassdoorRating": 2.6
+        },
+        {
+            "companyTitle": "Calpine",
+            "fortune500Rank": 336,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Mutual of Omaha Insurance",
+            "fortune500Rank": 337,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "Crown Holdings",
+            "fortune500Rank": 338,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Peter Kiewit Sons\u2019",
+            "fortune500Rank": 339,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Dick\u2019s Sporting Goods",
+            "fortune500Rank": 340,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "PulteGroup",
+            "fortune500Rank": 341,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Navistar International",
+            "fortune500Rank": 342,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Thrivent Financial for Lutherans",
+            "fortune500Rank": 343,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "DCP Midstream",
+            "fortune500Rank": 344,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Air Products & Chemicals",
+            "fortune500Rank": 345,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Veritiv",
+            "fortune500Rank": 346,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "AGCO",
+            "fortune500Rank": 347,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Genworth Financial",
+            "fortune500Rank": 348,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Univar",
+            "fortune500Rank": 349,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "News Corp.",
+            "fortune500Rank": 350,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "SpartanNash",
+            "fortune500Rank": 351,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Westlake Chemical",
+            "fortune500Rank": 352,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "Williams",
+            "fortune500Rank": 353,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Lam Research",
+            "fortune500Rank": 354,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Alaska Air Group",
+            "fortune500Rank": 355,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Jones Lang LaSalle",
+            "fortune500Rank": 356,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Anixter International",
+            "fortune500Rank": 357,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "Campbell Soup",
+            "fortune500Rank": 358,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Interpublic Group",
+            "fortune500Rank": 359,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "Dover",
+            "fortune500Rank": 360,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Zimmer Biomet Holdings",
+            "fortune500Rank": 361,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Dean Foods",
+            "fortune500Rank": 362,
+            "glassdoorRating": 2.7
+        },
+        {
+            "companyTitle": "Foot Locker",
+            "fortune500Rank": 363,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Eversource Energy",
+            "fortune500Rank": 364,
+            "glassdoorRating": 4.1
+        },
+        {
+            "companyTitle": "Alliance Data Systems",
+            "fortune500Rank": 365,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Fifth Third Bancorp",
+            "fortune500Rank": 366,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Quest Diagnostics",
+            "fortune500Rank": 367,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "EMCOR Group",
+            "fortune500Rank": 368,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "W.R. Berkley",
+            "fortune500Rank": 369,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "WESCO International",
+            "fortune500Rank": 370,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Coty",
+            "fortune500Rank": 371,
+            "glassdoorRating": 2.5
+        },
+        {
+            "companyTitle": "WEC Energy Group",
+            "fortune500Rank": 372,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "Masco",
+            "fortune500Rank": 373,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "DXC Technology",
+            "fortune500Rank": 374,
+            "glassdoorRating": 2.7
+        },
+        {
+            "companyTitle": "Auto-Owners Insurance",
+            "fortune500Rank": 375,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Jones Financial (Edward Jones)",
+            "fortune500Rank": 376,
+            "glassdoorRating": 4.1
+        },
+        {
+            "companyTitle": "Liberty Media",
+            "fortune500Rank": 377,
+            "glassdoorRating": 4.6
+        },
+        {
+            "companyTitle": "Erie Insurance Group",
+            "fortune500Rank": 378,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "Hershey",
+            "fortune500Rank": 379,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "PPL",
+            "fortune500Rank": 380,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Huntington Ingalls Industries",
+            "fortune500Rank": 381,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Mosaic",
+            "fortune500Rank": 382,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "J.M. Smucker",
+            "fortune500Rank": 383,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Delek US Holdings",
+            "fortune500Rank": 384,
+            "glassdoorRating": 2.7
+        },
+        {
+            "companyTitle": "Newmont Mining",
+            "fortune500Rank": 385,
+            "glassdoorRating": 4.1
+        },
+        {
+            "companyTitle": "Constellation Brands",
+            "fortune500Rank": 386,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Ryder System",
+            "fortune500Rank": 387,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "National Oilwell Varco",
+            "fortune500Rank": 388,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Adobe Systems",
+            "fortune500Rank": 389,
+            "glassdoorRating": 4.1
+        },
+        {
+            "companyTitle": "LifePoint Health",
+            "fortune500Rank": 390,
+            "glassdoorRating": 2.6
+        },
+        {
+            "companyTitle": "Tractor Supply",
+            "fortune500Rank": 391,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Thor Industries",
+            "fortune500Rank": 392,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Dana",
+            "fortune500Rank": 393,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Weyerhaeuser",
+            "fortune500Rank": 394,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "J.B. Hunt Transport Services",
+            "fortune500Rank": 395,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Darden Restaurants",
+            "fortune500Rank": 396,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Yum China Holdings",
+            "fortune500Rank": 397
+        },
+        {
+            "companyTitle": "Blackstone Group",
+            "fortune500Rank": 398,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Berry Global Group",
+            "fortune500Rank": 399,
+            "glassdoorRating": 2.6
+        },
+        {
+            "companyTitle": "Builders FirstSource",
+            "fortune500Rank": 400,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "Activision Blizzard",
+            "fortune500Rank": 401,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "JetBlue Airways",
+            "fortune500Rank": 402,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Amphenol",
+            "fortune500Rank": 403,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "A-Mark Precious Metals",
+            "fortune500Rank": 404,
+            "glassdoorRating": 4.5
+        },
+        {
+            "companyTitle": "Spirit AeroSystems Holdings",
+            "fortune500Rank": 405,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "R.R. Donnelley & Sons",
+            "fortune500Rank": 406,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Harris",
+            "fortune500Rank": 407,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Expeditors Intl. of Washington",
+            "fortune500Rank": 408,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Discovery",
+            "fortune500Rank": 409,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Owens-Illinois",
+            "fortune500Rank": 410,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Sanmina",
+            "fortune500Rank": 411,
+            "glassdoorRating": 2.7
+        },
+        {
+            "companyTitle": "KeyCorp",
+            "fortune500Rank": 412,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "American Financial Group",
+            "fortune500Rank": 413,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Oshkosh",
+            "fortune500Rank": 414,
+            "glassdoorRating": 4.3
+        },
+        {
+            "companyTitle": "Rockwell Collins",
+            "fortune500Rank": 415,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Kindred Healthcare",
+            "fortune500Rank": 416,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Insight Enterprises",
+            "fortune500Rank": 417,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Dr Pepper Snapple Group",
+            "fortune500Rank": 418,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "American Tower",
+            "fortune500Rank": 419,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Fortive",
+            "fortune500Rank": 420,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Ralph Lauren",
+            "fortune500Rank": 421,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Spectrum Brands Holdings",
+            "fortune500Rank": 422,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Ascena Retail Group",
+            "fortune500Rank": 423,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "United Rentals",
+            "fortune500Rank": 424,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Casey\u2019s General Stores",
+            "fortune500Rank": 425
+        },
+        {
+            "companyTitle": "Graybar Electric",
+            "fortune500Rank": 426,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Avery Dennison",
+            "fortune500Rank": 427,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "MasTec",
+            "fortune500Rank": 428,
+            "glassdoorRating": 2.6
+        },
+        {
+            "companyTitle": "CMS Energy",
+            "fortune500Rank": 429,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "HD Supply Holdings",
+            "fortune500Rank": 430,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Raymond James Financial",
+            "fortune500Rank": 431,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "NCR",
+            "fortune500Rank": 432,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Hanesbrands",
+            "fortune500Rank": 433,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Asbury Automotive Group",
+            "fortune500Rank": 434,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Citizens Financial Group",
+            "fortune500Rank": 435,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Packaging Corp. of America",
+            "fortune500Rank": 436,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Alleghany",
+            "fortune500Rank": 437,
+            "glassdoorRating": 2.1
+        },
+        {
+            "companyTitle": "Apache",
+            "fortune500Rank": 438,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Dillard\u2019s",
+            "fortune500Rank": 439,
+            "glassdoorRating": 2.7
+        },
+        {
+            "companyTitle": "Assurant",
+            "fortune500Rank": 440,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Franklin Resources",
+            "fortune500Rank": 441,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Owens Corning",
+            "fortune500Rank": 442,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Motorola Solutions",
+            "fortune500Rank": 443,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "NVR",
+            "fortune500Rank": 444,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Rockwell Automation",
+            "fortune500Rank": 445,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "TreeHouse Foods",
+            "fortune500Rank": 446,
+            "glassdoorRating": 2.6
+        },
+        {
+            "companyTitle": "Wynn Resorts",
+            "fortune500Rank": 447,
+            "glassdoorRating": 4.0
+        },
+        {
+            "companyTitle": "Olin",
+            "fortune500Rank": 448,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "American Axle & Manufacturing",
+            "fortune500Rank": 449,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Old Republic International",
+            "fortune500Rank": 450,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Chemours",
+            "fortune500Rank": 451,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "iHeartMedia",
+            "fortune500Rank": 452,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Ameren",
+            "fortune500Rank": 453,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Arthur J. Gallagher",
+            "fortune500Rank": 454,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Celanese",
+            "fortune500Rank": 455,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Sealed Air",
+            "fortune500Rank": 456,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "UGI",
+            "fortune500Rank": 457,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Realogy Holdings",
+            "fortune500Rank": 458,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "Burlington Stores",
+            "fortune500Rank": 459,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Regions Financial",
+            "fortune500Rank": 460,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "AK Steel Holding",
+            "fortune500Rank": 461,
+            "glassdoorRating": 2.5
+        },
+        {
+            "companyTitle": "Securian Financial Group",
+            "fortune500Rank": 462,
+            "glassdoorRating": 4.0
+        },
+        {
+            "companyTitle": "S&P Global",
+            "fortune500Rank": 463,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Markel",
+            "fortune500Rank": 464,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "TravelCenters of America",
+            "fortune500Rank": 465,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Conduent",
+            "fortune500Rank": 466,
+            "glassdoorRating": 2.5
+        },
+        {
+            "companyTitle": "M&T Bank Corp.",
+            "fortune500Rank": 467,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Clorox",
+            "fortune500Rank": 468,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "AmTrust Financial Services",
+            "fortune500Rank": 469,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "KKR",
+            "fortune500Rank": 470,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "Ulta Beauty",
+            "fortune500Rank": 471,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Yum Brands",
+            "fortune500Rank": 472,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Regeneron Pharmaceuticals",
+            "fortune500Rank": 473,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Windstream Holdings",
+            "fortune500Rank": 474,
+            "glassdoorRating": 2.7
+        },
+        {
+            "companyTitle": "Magellan Health",
+            "fortune500Rank": 475,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Western & Southern Financial",
+            "fortune500Rank": 476,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Intercontinental Exchange",
+            "fortune500Rank": 477,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Ingredion",
+            "fortune500Rank": 478,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Wyndham Destinations",
+            "fortune500Rank": 479,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Toll Brothers",
+            "fortune500Rank": 480,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Seaboard",
+            "fortune500Rank": 481,
+            "glassdoorRating": 4.1
+        },
+        {
+            "companyTitle": "Booz Allen Hamilton",
+            "fortune500Rank": 482,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "First American Financial",
+            "fortune500Rank": 483,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Cincinnati Financial",
+            "fortune500Rank": 484,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Avon Products",
+            "fortune500Rank": 485,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Northern Trust",
+            "fortune500Rank": 486,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Fiserv",
+            "fortune500Rank": 487,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Harley-Davidson",
+            "fortune500Rank": 488,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Cheniere Energy",
+            "fortune500Rank": 489,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Patterson",
+            "fortune500Rank": 490,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Peabody Energy",
+            "fortune500Rank": 491,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "ON Semiconductor",
+            "fortune500Rank": 492,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Simon Property Group",
+            "fortune500Rank": 493,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "Western Union",
+            "fortune500Rank": 494,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "NetApp",
+            "fortune500Rank": 495,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Polaris Industries",
+            "fortune500Rank": 496,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Pioneer Natural Resources",
+            "fortune500Rank": 497,
+            "glassdoorRating": 4.1
+        },
+        {
+            "companyTitle": "ABM Industries",
+            "fortune500Rank": 498,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Vistra Energy",
+            "fortune500Rank": 499,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Cintas",
+            "fortune500Rank": 500,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Hess",
+            "fortune500Rank": 501,
+            "glassdoorRating": 2.7
+        },
+        {
+            "companyTitle": "Host Hotels & Resorts",
+            "fortune500Rank": 502,
+            "glassdoorRating": 2.7
+        },
+        {
+            "companyTitle": "Kelly Services",
+            "fortune500Rank": 503,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Genesis Healthcare",
+            "fortune500Rank": 504,
+            "glassdoorRating": 2.5
+        },
+        {
+            "companyTitle": "Michaels Cos.",
+            "fortune500Rank": 505,
+            "glassdoorRating": 4.2
+        },
+        {
+            "companyTitle": "Advanced Micro Devices",
+            "fortune500Rank": 506,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Zoetis",
+            "fortune500Rank": 507,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Williams-Sonoma",
+            "fortune500Rank": 508,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "Fortune Brands Home & Security",
+            "fortune500Rank": 509,
+            "glassdoorRating": 4.1
+        },
+        {
+            "companyTitle": "Big Lots",
+            "fortune500Rank": 510,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Robert Half International",
+            "fortune500Rank": 511,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Post Holdings",
+            "fortune500Rank": 512,
+            "glassdoorRating": 2.7
+        },
+        {
+            "companyTitle": "Hasbro",
+            "fortune500Rank": 513,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Hanover Insurance Group",
+            "fortune500Rank": 514,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Navient",
+            "fortune500Rank": 515,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Intuit",
+            "fortune500Rank": 516,
+            "glassdoorRating": 4.3
+        },
+        {
+            "companyTitle": "Domtar",
+            "fortune500Rank": 517,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Marathon Oil",
+            "fortune500Rank": 518,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Cerner",
+            "fortune500Rank": 519,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Analog Devices",
+            "fortune500Rank": 520,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Telephone & Data Systems",
+            "fortune500Rank": 521,
+            "glassdoorRating": 4.0
+        },
+        {
+            "companyTitle": "Essendant",
+            "fortune500Rank": 522,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Sonoco Products",
+            "fortune500Rank": 523,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Juniper Networks",
+            "fortune500Rank": 524,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Commercial Metals",
+            "fortune500Rank": 525,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "CSRA",
+            "fortune500Rank": 526,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Under Armour",
+            "fortune500Rank": 527,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "RPM International",
+            "fortune500Rank": 528,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Total System Services",
+            "fortune500Rank": 529,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Levi Strauss",
+            "fortune500Rank": 530,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Brunswick",
+            "fortune500Rank": 531,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "YRC Worldwide",
+            "fortune500Rank": 532,
+            "glassdoorRating": 2.6
+        },
+        {
+            "companyTitle": "Mattel",
+            "fortune500Rank": 533,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "FM Global",
+            "fortune500Rank": 534,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "NiSource",
+            "fortune500Rank": 535,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Caesars Entertainment",
+            "fortune500Rank": 536,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Electronic Arts",
+            "fortune500Rank": 537,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Dynegy",
+            "fortune500Rank": 538,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "McCormick",
+            "fortune500Rank": 539,
+            "glassdoorRating": 2.7
+        },
+        {
+            "companyTitle": "T. Rowe Price",
+            "fortune500Rank": 540,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Orbital ATK",
+            "fortune500Rank": 541,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Tutor Perini",
+            "fortune500Rank": 542,
+            "glassdoorRating": 2.2
+        },
+        {
+            "companyTitle": "Brookdale Senior Living",
+            "fortune500Rank": 543,
+            "glassdoorRating": 2.7
+        },
+        {
+            "companyTitle": "Huntington Bancshares",
+            "fortune500Rank": 544,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Wayfair",
+            "fortune500Rank": 545,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Rush Enterprises",
+            "fortune500Rank": 546,
+            "glassdoorRating": 2.6
+        },
+        {
+            "companyTitle": "Xylem",
+            "fortune500Rank": 547,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Neiman Marcus Group",
+            "fortune500Rank": 548,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Hyatt Hotels",
+            "fortune500Rank": 549,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "Sprouts Farmers Market",
+            "fortune500Rank": 550,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Diebold Nixdorf",
+            "fortune500Rank": 551,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Roper Technologies",
+            "fortune500Rank": 552,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Smart & Final Stores",
+            "fortune500Rank": 553,
+            "glassdoorRating": 4.0
+        },
+        {
+            "companyTitle": "CommScope Holding",
+            "fortune500Rank": 554
+        },
+        {
+            "companyTitle": "Tapestry",
+            "fortune500Rank": 555,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Diplomat Pharmacy",
+            "fortune500Rank": 556,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "Chipotle Mexican Grill",
+            "fortune500Rank": 557,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Agilent Technologies",
+            "fortune500Rank": 558,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Science Applications International",
+            "fortune500Rank": 559,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "MDU Resources Group",
+            "fortune500Rank": 560,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Select Medical Holdings",
+            "fortune500Rank": 561,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Boise Cascade",
+            "fortune500Rank": 562,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "National General Holdings",
+            "fortune500Rank": 563,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "SCANA",
+            "fortune500Rank": 564,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Graphic Packaging Holding",
+            "fortune500Rank": 565,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Fastenal",
+            "fortune500Rank": 566,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Schneider National",
+            "fortune500Rank": 567,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Laureate Education",
+            "fortune500Rank": 568,
+            "glassdoorRating": 2.7
+        },
+        {
+            "companyTitle": "Beacon Roofing Supply",
+            "fortune500Rank": 569,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "KB Home",
+            "fortune500Rank": 570,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Equinix",
+            "fortune500Rank": 571,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Terex",
+            "fortune500Rank": 572,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Crown Castle International",
+            "fortune500Rank": 573,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "CACI International",
+            "fortune500Rank": 574,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Watsco",
+            "fortune500Rank": 575,
+            "glassdoorRating": 2.5
+        },
+        {
+            "companyTitle": "Coca-Cola Bottling",
+            "fortune500Rank": 576,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Welltower",
+            "fortune500Rank": 577,
+            "glassdoorRating": 2.2
+        },
+        {
+            "companyTitle": "ADT",
+            "fortune500Rank": 578,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "Ametek",
+            "fortune500Rank": 579,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "CNO Financial Group",
+            "fortune500Rank": 580,
+            "glassdoorRating": 2.6
+        },
+        {
+            "companyTitle": "Camping World Holdings",
+            "fortune500Rank": 581,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "LPL Financial Holdings",
+            "fortune500Rank": 582,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Noble Energy",
+            "fortune500Rank": 583,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "Bloomin\u2019 Brands",
+            "fortune500Rank": 584,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Moody\u2019s",
+            "fortune500Rank": 585,
+            "glassdoorRating": 4.0
+        },
+        {
+            "companyTitle": "Symantec",
+            "fortune500Rank": 586,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Amkor Technology",
+            "fortune500Rank": 587,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Skechers U.S.A.",
+            "fortune500Rank": 588,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "KBR",
+            "fortune500Rank": 589,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Tiffany",
+            "fortune500Rank": 590,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Torchmark",
+            "fortune500Rank": 591,
+            "glassdoorRating": 2.6
+        },
+        {
+            "companyTitle": "Broadridge Financial Solutions",
+            "fortune500Rank": 592,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Quad/Graphics",
+            "fortune500Rank": 593,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "CF Industries Holdings",
+            "fortune500Rank": 594,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Carlisle",
+            "fortune500Rank": 595,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Silgan Holdings",
+            "fortune500Rank": 596,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Bemis",
+            "fortune500Rank": 597,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "CA",
+            "fortune500Rank": 598,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Hub Group",
+            "fortune500Rank": 599,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Worldpay",
+            "fortune500Rank": 600,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Ingles Markets",
+            "fortune500Rank": 601,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Snap-on",
+            "fortune500Rank": 602,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Dentsply Sirona",
+            "fortune500Rank": 603,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Calumet Specialty Products",
+            "fortune500Rank": 604,
+            "glassdoorRating": 2.4
+        },
+        {
+            "companyTitle": "Global Payments",
+            "fortune500Rank": 605,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Encompass Health",
+            "fortune500Rank": 606,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Martin Marietta Materials",
+            "fortune500Rank": 607,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Nasdaq",
+            "fortune500Rank": 608,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Leggett & Platt",
+            "fortune500Rank": 609,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Universal Forest Products",
+            "fortune500Rank": 610,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Sally Beauty Holdings",
+            "fortune500Rank": 611,
+            "glassdoorRating": 2.6
+        },
+        {
+            "companyTitle": "Flowers Foods",
+            "fortune500Rank": 612,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Barnes & Noble",
+            "fortune500Rank": 613,
+            "glassdoorRating": 5.0
+        },
+        {
+            "companyTitle": "American Equity Investment Life",
+            "fortune500Rank": 614,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Vulcan Materials",
+            "fortune500Rank": 615,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Taylor Morrison Home",
+            "fortune500Rank": 616,
+            "glassdoorRating": 4.7
+        },
+        {
+            "companyTitle": "Westinghouse Air Brake",
+            "fortune500Rank": 617,
+            "glassdoorRating": 2.6
+        },
+        {
+            "companyTitle": "Crestwood Equity Partners",
+            "fortune500Rank": 618,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Iron Mountain",
+            "fortune500Rank": 619,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Lennox International",
+            "fortune500Rank": 620,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "General Cable",
+            "fortune500Rank": 621,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "American Eagle Outfitters",
+            "fortune500Rank": 622,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Church & Dwight",
+            "fortune500Rank": 623,
+            "glassdoorRating": 4.0
+        },
+        {
+            "companyTitle": "Platform Specialty Products",
+            "fortune500Rank": 624,
+            "glassdoorRating": 1.3
+        },
+        {
+            "companyTitle": "JELD-WEN Holding",
+            "fortune500Rank": 625
+        },
+        {
+            "companyTitle": "OneMain Holdings",
+            "fortune500Rank": 626,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "Colfax",
+            "fortune500Rank": 627,
+            "glassdoorRating": 2.3
+        },
+        {
+            "companyTitle": "Zebra Technologies",
+            "fortune500Rank": 628,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Andersons",
+            "fortune500Rank": 629,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "TD Ameritrade Holding",
+            "fortune500Rank": 630,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Carlyle Group",
+            "fortune500Rank": 631,
+            "glassdoorRating": 4.2
+        },
+        {
+            "companyTitle": "Hubbell",
+            "fortune500Rank": 632,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "Trinity Industries",
+            "fortune500Rank": 633,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Darling Ingredients",
+            "fortune500Rank": 634,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Flowserve",
+            "fortune500Rank": 635,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Antero Resources",
+            "fortune500Rank": 636,
+            "glassdoorRating": 4.0
+        },
+        {
+            "companyTitle": "Skyworks Solutions",
+            "fortune500Rank": 637,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Landstar System",
+            "fortune500Rank": 638,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Buckeye Partners",
+            "fortune500Rank": 639,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "MRC Global",
+            "fortune500Rank": 640,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "CME Group",
+            "fortune500Rank": 641,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Greif",
+            "fortune500Rank": 642,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Nexeo Solutions",
+            "fortune500Rank": 643,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Cooper-Standard Holdings",
+            "fortune500Rank": 644,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Urban Outfitters",
+            "fortune500Rank": 645,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "LSC Communications",
+            "fortune500Rank": 646,
+            "glassdoorRating": 2.6
+        },
+        {
+            "companyTitle": "Sabre",
+            "fortune500Rank": 647,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Green Plains",
+            "fortune500Rank": 648,
+            "glassdoorRating": 2.6
+        },
+        {
+            "companyTitle": "Hexion",
+            "fortune500Rank": 649,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Stericycle",
+            "fortune500Rank": 650,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Warner Music Group",
+            "fortune500Rank": 651,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Ventas",
+            "fortune500Rank": 652,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "ScanSource",
+            "fortune500Rank": 653,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Pinnacle West Capital",
+            "fortune500Rank": 654,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Scripps Networks Interactive",
+            "fortune500Rank": 655,
+            "glassdoorRating": 4.2
+        },
+        {
+            "companyTitle": "Alexion Pharmaceuticals",
+            "fortune500Rank": 656,
+            "glassdoorRating": 2.4
+        },
+        {
+            "companyTitle": "Pitney Bowes",
+            "fortune500Rank": 657,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "CIT Group",
+            "fortune500Rank": 658,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Country Financial",
+            "fortune500Rank": 659,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "CUNA Mutual Group",
+            "fortune500Rank": 660,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Triumph Group",
+            "fortune500Rank": 661,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "TransDigm Group",
+            "fortune500Rank": 662,
+            "glassdoorRating": 1.8
+        },
+        {
+            "companyTitle": "Allegheny Technologies",
+            "fortune500Rank": 663,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Resolute Forest Products",
+            "fortune500Rank": 664,
+            "glassdoorRating": 2.4
+        },
+        {
+            "companyTitle": "Acuity Brands",
+            "fortune500Rank": 665,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Abercrombie & Fitch",
+            "fortune500Rank": 666,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "KLA-Tencor",
+            "fortune500Rank": 667,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Weis Markets",
+            "fortune500Rank": 668,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Puget Energy",
+            "fortune500Rank": 669,
+            "glassdoorRating": 5.0
+        },
+        {
+            "companyTitle": "Mednax",
+            "fortune500Rank": 670,
+            "glassdoorRating": 2.6
+        },
+        {
+            "companyTitle": "Kar Auction Services",
+            "fortune500Rank": 671,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "PolyOne",
+            "fortune500Rank": 672,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "FMC",
+            "fortune500Rank": 673,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Edwards Lifesciences",
+            "fortune500Rank": 674,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Microchip Technology",
+            "fortune500Rank": 675,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Amerco",
+            "fortune500Rank": 676,
+            "glassdoorRating": 2.6
+        },
+        {
+            "companyTitle": "Mercury General",
+            "fortune500Rank": 677,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "American National Insurance",
+            "fortune500Rank": 678,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Carter\u2019s",
+            "fortune500Rank": 679,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "International Flavors & Fragrances",
+            "fortune500Rank": 680,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Aaron\u2019s",
+            "fortune500Rank": 681,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Alliant Energy",
+            "fortune500Rank": 682,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "EQT",
+            "fortune500Rank": 683,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "Monster Beverage",
+            "fortune500Rank": 684,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "BMC Stock Holdings",
+            "fortune500Rank": 685
+        },
+        {
+            "companyTitle": "Ryerson Holding",
+            "fortune500Rank": 686,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Equifax",
+            "fortune500Rank": 687,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Regal Beloit",
+            "fortune500Rank": 688,
+            "glassdoorRating": 2.7
+        },
+        {
+            "companyTitle": "Old Dominion Freight Line",
+            "fortune500Rank": 689,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "American Water Works",
+            "fortune500Rank": 690,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "BGC Partners",
+            "fortune500Rank": 691,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Brink\u2019s",
+            "fortune500Rank": 692
+        },
+        {
+            "companyTitle": "Meritor",
+            "fortune500Rank": 693,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Sentry Insurance Group",
+            "fortune500Rank": 694,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Sanderson Farms",
+            "fortune500Rank": 695,
+            "glassdoorRating": 2.6
+        },
+        {
+            "companyTitle": "KapStone Paper & Packaging",
+            "fortune500Rank": 696,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "Gartner",
+            "fortune500Rank": 697,
+            "glassdoorRating": 4.0
+        },
+        {
+            "companyTitle": "IAC/InterActiveCorp",
+            "fortune500Rank": 698,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Tailored Brands",
+            "fortune500Rank": 699,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "WABCO Holdings",
+            "fortune500Rank": 700,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Insperity",
+            "fortune500Rank": 701,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Comerica",
+            "fortune500Rank": 702,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "TriNet Group",
+            "fortune500Rank": 703,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Avaya Holdings",
+            "fortune500Rank": 704,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Ashland Global Holdings",
+            "fortune500Rank": 705
+        },
+        {
+            "companyTitle": "Meritage Homes",
+            "fortune500Rank": 706,
+            "glassdoorRating": 4.1
+        },
+        {
+            "companyTitle": "SkyWest",
+            "fortune500Rank": 707,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "USG",
+            "fortune500Rank": 708,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Southwestern Energy",
+            "fortune500Rank": 709,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Keysight Technologies",
+            "fortune500Rank": 710,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "Regal Entertainment Group",
+            "fortune500Rank": 711,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Mutual of America Life Insurance",
+            "fortune500Rank": 712,
+            "glassdoorRating": 2.6
+        },
+        {
+            "companyTitle": "Paychex",
+            "fortune500Rank": 713,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Brinker International",
+            "fortune500Rank": 714,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Penn National Gaming",
+            "fortune500Rank": 715,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Gannett",
+            "fortune500Rank": 716,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Visteon",
+            "fortune500Rank": 717,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Pinnacle Foods",
+            "fortune500Rank": 718,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Intuitive Surgical",
+            "fortune500Rank": 719,
+            "glassdoorRating": 4.7
+        },
+        {
+            "companyTitle": "Continental Resources",
+            "fortune500Rank": 720,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Service Corp. International",
+            "fortune500Rank": 721,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "Scientific Games",
+            "fortune500Rank": 722,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Albemarle",
+            "fortune500Rank": 723,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Atmos Energy",
+            "fortune500Rank": 724,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "Hologic",
+            "fortune500Rank": 725,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "H&R Block",
+            "fortune500Rank": 726,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Qorvo",
+            "fortune500Rank": 727,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Steelcase",
+            "fortune500Rank": 728,
+            "glassdoorRating": 4.1
+        },
+        {
+            "companyTitle": "Univision Communications",
+            "fortune500Rank": 729,
+            "glassdoorRating": 2.0
+        },
+        {
+            "companyTitle": "Worthington Industries",
+            "fortune500Rank": 730,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Timken",
+            "fortune500Rank": 731,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "A.O. Smith",
+            "fortune500Rank": 732,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "PriceSmart",
+            "fortune500Rank": 733,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Stifel Financial",
+            "fortune500Rank": 734,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Brown-Forman",
+            "fortune500Rank": 735,
+            "glassdoorRating": 4.5
+        },
+        {
+            "companyTitle": "Cinemark Holdings",
+            "fortune500Rank": 736,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Granite Construction",
+            "fortune500Rank": 737,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Dycom Industries",
+            "fortune500Rank": 738,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Clean Harbors",
+            "fortune500Rank": 739,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "First Solar",
+            "fortune500Rank": 740,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Scotts Miracle-Gro",
+            "fortune500Rank": 741,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Cracker Barrel Old Country Store",
+            "fortune500Rank": 742,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Triple-S Management",
+            "fortune500Rank": 743,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "First Republic Bank",
+            "fortune500Rank": 744,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "ServiceMaster Global Holdings",
+            "fortune500Rank": 745,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "PC Connection",
+            "fortune500Rank": 746,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Genesco",
+            "fortune500Rank": 747,
+            "glassdoorRating": 2.6
+        },
+        {
+            "companyTitle": "Medical Mutual of Ohio",
+            "fortune500Rank": 748,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "MSC Industrial Direct",
+            "fortune500Rank": 749,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Legg Mason",
+            "fortune500Rank": 750,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Hyster-Yale Materials Handling",
+            "fortune500Rank": 751,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Apollo Global Management",
+            "fortune500Rank": 752,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Citrix Systems",
+            "fortune500Rank": 753,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Acadia Healthcare",
+            "fortune500Rank": 754,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Varian Medical Systems",
+            "fortune500Rank": 755,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Groupon",
+            "fortune500Rank": 756,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Aleris",
+            "fortune500Rank": 757,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Sprague Resources",
+            "fortune500Rank": 758,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Cooper Tire & Rubber",
+            "fortune500Rank": 759,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Hain Celestial Group",
+            "fortune500Rank": 760,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "Penn Mutual Life Insurance",
+            "fortune500Rank": 761,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Colony Capital",
+            "fortune500Rank": 762,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "ArcBest",
+            "fortune500Rank": 763,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Presidio",
+            "fortune500Rank": 764,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "TRI Pointe Group",
+            "fortune500Rank": 765,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Annaly Capital Management",
+            "fortune500Rank": 766,
+            "glassdoorRating": 2.6
+        },
+        {
+            "companyTitle": "G-III Apparel Group",
+            "fortune500Rank": 767,
+            "glassdoorRating": 1.9
+        },
+        {
+            "companyTitle": "AMC Networks",
+            "fortune500Rank": 768,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Enable Midstream Partners",
+            "fortune500Rank": 769,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Ciena",
+            "fortune500Rank": 770,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "DSW",
+            "fortune500Rank": 771,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Convergys",
+            "fortune500Rank": 772,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Park Hotels & Resorts",
+            "fortune500Rank": 773,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Pool",
+            "fortune500Rank": 774,
+            "glassdoorRating": 2.2
+        },
+        {
+            "companyTitle": "Fossil Group",
+            "fortune500Rank": 775,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Domino\u2019s Pizza",
+            "fortune500Rank": 776,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "Crane",
+            "fortune500Rank": 777,
+            "glassdoorRating": 5.0
+        },
+        {
+            "companyTitle": "Caleres",
+            "fortune500Rank": 778,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Tempur Sealy International",
+            "fortune500Rank": 779,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Tetra Tech",
+            "fortune500Rank": 780,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Illumina",
+            "fortune500Rank": 781,
+            "glassdoorRating": 4.2
+        },
+        {
+            "companyTitle": "Valmont Industries",
+            "fortune500Rank": 782,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "Hill-Rom Holdings",
+            "fortune500Rank": 783,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Unisys",
+            "fortune500Rank": 784,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Zions Bancorp.",
+            "fortune500Rank": 785,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Sinclair Broadcast Group",
+            "fortune500Rank": 786,
+            "glassdoorRating": 2.7
+        },
+        {
+            "companyTitle": "Louisiana-Pacific",
+            "fortune500Rank": 787,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Mettler-Toledo International",
+            "fortune500Rank": 788,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Synopsys",
+            "fortune500Rank": 789,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Kemper",
+            "fortune500Rank": 790,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Cabot",
+            "fortune500Rank": 791,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Great Plains Energy",
+            "fortune500Rank": 792,
+            "glassdoorRating": 4.0
+        },
+        {
+            "companyTitle": "Rent-A-Center",
+            "fortune500Rank": 793,
+            "glassdoorRating": 2.7
+        },
+        {
+            "companyTitle": "Hawaiian Holdings",
+            "fortune500Rank": 794,
+            "glassdoorRating": 4.1
+        },
+        {
+            "companyTitle": "Revlon",
+            "fortune500Rank": 795,
+            "glassdoorRating": 2.5
+        },
+        {
+            "companyTitle": "Syneos Health",
+            "fortune500Rank": 796,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Public Storage",
+            "fortune500Rank": 797,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "TTM Technologies",
+            "fortune500Rank": 798,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Vectren",
+            "fortune500Rank": 799,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Trimble",
+            "fortune500Rank": 800,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "NOW",
+            "fortune500Rank": 801,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Spirit Airlines",
+            "fortune500Rank": 802,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "ASGN",
+            "fortune500Rank": 803,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Lincoln Electric Holdings",
+            "fortune500Rank": 804,
+            "glassdoorRating": 2.7
+        },
+        {
+            "companyTitle": "Prologis",
+            "fortune500Rank": 805,
+            "glassdoorRating": 4.0
+        },
+        {
+            "companyTitle": "Range Resources",
+            "fortune500Rank": 806,
+            "glassdoorRating": 4.0
+        },
+        {
+            "companyTitle": "Teledyne Technologies",
+            "fortune500Rank": 807,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "Vishay Intertechnology",
+            "fortune500Rank": 808,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Boston Properties",
+            "fortune500Rank": 809,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Applied Industrial Technologies",
+            "fortune500Rank": 810,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "Graham Holdings",
+            "fortune500Rank": 811,
+            "glassdoorRating": 4.1
+        },
+        {
+            "companyTitle": "Amica Mutual Insurance",
+            "fortune500Rank": 812,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Concho Resources",
+            "fortune500Rank": 813,
+            "glassdoorRating": 4.9
+        },
+        {
+            "companyTitle": "ITT",
+            "fortune500Rank": 814,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Kansas City Southern",
+            "fortune500Rank": 815,
+            "glassdoorRating": 2.4
+        },
+        {
+            "companyTitle": "MDC Holdings",
+            "fortune500Rank": 816,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Evergy",
+            "fortune500Rank": 817
+        },
+        {
+            "companyTitle": "Pinnacle Entertainment",
+            "fortune500Rank": 818,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "Hawaiian Electric Industries",
+            "fortune500Rank": 819
+        },
+        {
+            "companyTitle": "TEGNA",
+            "fortune500Rank": 820,
+            "glassdoorRating": 2.7
+        },
+        {
+            "companyTitle": "Southwest Gas Holdings",
+            "fortune500Rank": 821,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Vista Outdoor",
+            "fortune500Rank": 822,
+            "glassdoorRating": 2.6
+        },
+        {
+            "companyTitle": "Bon-Ton Stores",
+            "fortune500Rank": 823,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Super Micro Computer",
+            "fortune500Rank": 824,
+            "glassdoorRating": 2.5
+        },
+        {
+            "companyTitle": "Plexus",
+            "fortune500Rank": 825,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "TrueBlue",
+            "fortune500Rank": 826,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Magellan Midstream Partners",
+            "fortune500Rank": 827,
+            "glassdoorRating": 4.1
+        },
+        {
+            "companyTitle": "Toro",
+            "fortune500Rank": 828,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Akamai Technologies",
+            "fortune500Rank": 829,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Moog",
+            "fortune500Rank": 830,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "Vertex Pharmaceuticals",
+            "fortune500Rank": 831,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Equity Residential",
+            "fortune500Rank": 832,
+            "glassdoorRating": 4.4
+        },
+        {
+            "companyTitle": "Selective Insurance Group",
+            "fortune500Rank": 833,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "AptarGroup",
+            "fortune500Rank": 834,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Benchmark Electronics",
+            "fortune500Rank": 835,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Columbia Sportswear",
+            "fortune500Rank": 836,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "A. Schulman",
+            "fortune500Rank": 837,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Verso",
+            "fortune500Rank": 838,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "Digital Realty Trust",
+            "fortune500Rank": 839,
+            "glassdoorRating": 4.3
+        },
+        {
+            "companyTitle": "GNC Holdings",
+            "fortune500Rank": 840,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "E*Trade Financial",
+            "fortune500Rank": 841,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Hovnanian Enterprises",
+            "fortune500Rank": 842,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Maximus",
+            "fortune500Rank": 843,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "Twitter",
+            "fortune500Rank": 844,
+            "glassdoorRating": 4.0
+        },
+        {
+            "companyTitle": "Par Pacific Holdings",
+            "fortune500Rank": 845,
+            "glassdoorRating": 4.0
+        },
+        {
+            "companyTitle": "Parexel International",
+            "fortune500Rank": 846,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "RH",
+            "fortune500Rank": 847,
+            "glassdoorRating": 4.6
+        },
+        {
+            "companyTitle": "Nexstar Media Group",
+            "fortune500Rank": 848,
+            "glassdoorRating": 2.3
+        },
+        {
+            "companyTitle": "Knight-Swift Transportation Holdings",
+            "fortune500Rank": 849
+        },
+        {
+            "companyTitle": "Red Hat",
+            "fortune500Rank": 850,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "Belden",
+            "fortune500Rank": 851,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Boyd Gaming",
+            "fortune500Rank": 852,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Primoris Services",
+            "fortune500Rank": 853,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Gardner Denver",
+            "fortune500Rank": 854,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Donaldson",
+            "fortune500Rank": 855,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Party City Holdco",
+            "fortune500Rank": 856
+        },
+        {
+            "companyTitle": "J.Crew Group",
+            "fortune500Rank": 857,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "EnerSys",
+            "fortune500Rank": 858,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Guess",
+            "fortune500Rank": 859,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Patterson-UTI Energy",
+            "fortune500Rank": 860,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "WGL Holdings",
+            "fortune500Rank": 861,
+            "glassdoorRating": 2.5
+        },
+        {
+            "companyTitle": "Wolverine World Wide",
+            "fortune500Rank": 862,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Xilinx",
+            "fortune500Rank": 863,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Vornado Realty Trust",
+            "fortune500Rank": 864,
+            "glassdoorRating": 4.1
+        },
+        {
+            "companyTitle": "Middleby",
+            "fortune500Rank": 865,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "MPM Holdings",
+            "fortune500Rank": 866,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "Cleveland-Cliffs",
+            "fortune500Rank": 867,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "GGP",
+            "fortune500Rank": 868,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Cypress Semiconductor",
+            "fortune500Rank": 869,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Arch Coal",
+            "fortune500Rank": 870,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "GMS",
+            "fortune500Rank": 871,
+            "glassdoorRating": 2.7
+        },
+        {
+            "companyTitle": "Waters",
+            "fortune500Rank": 872,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "H.B. Fuller",
+            "fortune500Rank": 873,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Affiliated Managers Group",
+            "fortune500Rank": 874,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "PerkinElmer",
+            "fortune500Rank": 875,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Edgewell Personal Care",
+            "fortune500Rank": 876,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Maxim Integrated Products",
+            "fortune500Rank": 877,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Knights of Columbus",
+            "fortune500Rank": 878,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "IDEX",
+            "fortune500Rank": 879,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "DST Systems",
+            "fortune500Rank": 880,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "Chico\u2019s FAS",
+            "fortune500Rank": 881
+        },
+        {
+            "companyTitle": "Nu Skin Enterprises",
+            "fortune500Rank": 882,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Herman Miller",
+            "fortune500Rank": 883,
+            "glassdoorRating": 4.1
+        },
+        {
+            "companyTitle": "NLV Financial",
+            "fortune500Rank": 884
+        },
+        {
+            "companyTitle": "Curtiss-Wright",
+            "fortune500Rank": 885,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "New Jersey Resources",
+            "fortune500Rank": 886,
+            "glassdoorRating": 4.3
+        },
+        {
+            "companyTitle": "REV Group",
+            "fortune500Rank": 887,
+            "glassdoorRating": 2.7
+        },
+        {
+            "companyTitle": "Mueller Industries",
+            "fortune500Rank": 888,
+            "glassdoorRating": 2.7
+        },
+        {
+            "companyTitle": "GEO Group",
+            "fortune500Rank": 889,
+            "glassdoorRating": 2.2
+        },
+        {
+            "companyTitle": "Allison Transmission Holdings",
+            "fortune500Rank": 890,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "OGE Energy",
+            "fortune500Rank": 891,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Cheesecake Factory",
+            "fortune500Rank": 892,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "PRA Health Sciences",
+            "fortune500Rank": 893,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Tupperware Brands",
+            "fortune500Rank": 894,
+            "glassdoorRating": 4.0
+        },
+        {
+            "companyTitle": "Euronet Worldwide",
+            "fortune500Rank": 895,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "FLEETCOR Technologies",
+            "fortune500Rank": 896,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "Nationstar Mortgage Holdings",
+            "fortune500Rank": 897,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "GoDaddy",
+            "fortune500Rank": 898,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Blackhawk Network Holdings",
+            "fortune500Rank": 899,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "Cboe Global Markets",
+            "fortune500Rank": 900,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Snyder\u2019s-Lance",
+            "fortune500Rank": 901
+        },
+        {
+            "companyTitle": "Murphy Oil",
+            "fortune500Rank": 902,
+            "glassdoorRating": 2.5
+        },
+        {
+            "companyTitle": "CDK Global",
+            "fortune500Rank": 903,
+            "glassdoorRating": 2.3
+        },
+        {
+            "companyTitle": "Texas Roadhouse",
+            "fortune500Rank": 904,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Kirby",
+            "fortune500Rank": 905,
+            "glassdoorRating": 2.5
+        },
+        {
+            "companyTitle": "Square",
+            "fortune500Rank": 906,
+            "glassdoorRating": 4.1
+        },
+        {
+            "companyTitle": "Genesee & Wyoming",
+            "fortune500Rank": 907,
+            "glassdoorRating": 2.1
+        },
+        {
+            "companyTitle": "Zayo Group Holdings",
+            "fortune500Rank": 908,
+            "glassdoorRating": 2.2
+        },
+        {
+            "companyTitle": "NewMarket",
+            "fortune500Rank": 909,
+            "glassdoorRating": 4.0
+        },
+        {
+            "companyTitle": "99 Cents Only Stores",
+            "fortune500Rank": 910,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "PCM",
+            "fortune500Rank": 911,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Federated Mutual Insurance",
+            "fortune500Rank": 912,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "HNI",
+            "fortune500Rank": 913,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Hospitality Properties Trust",
+            "fortune500Rank": 914
+        },
+        {
+            "companyTitle": "Greenbrier Cos.",
+            "fortune500Rank": 915,
+            "glassdoorRating": 2.7
+        },
+        {
+            "companyTitle": "Bio-Rad Laboratories",
+            "fortune500Rank": 916,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "AvalonBay Communities",
+            "fortune500Rank": 917,
+            "glassdoorRating": 4.3
+        },
+        {
+            "companyTitle": "Renewable Energy Group",
+            "fortune500Rank": 918,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Atlas Air Worldwide Holdings",
+            "fortune500Rank": 919,
+            "glassdoorRating": 2.5
+        },
+        {
+            "companyTitle": "Teradata",
+            "fortune500Rank": 920,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "LCI Industries",
+            "fortune500Rank": 921,
+            "glassdoorRating": 2.0
+        },
+        {
+            "companyTitle": "Teleflex",
+            "fortune500Rank": 922,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Verisk Analytics",
+            "fortune500Rank": 923,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Popular",
+            "fortune500Rank": 924,
+            "glassdoorRating": 4.0
+        },
+        {
+            "companyTitle": "Workday",
+            "fortune500Rank": 925,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Cooper Cos.",
+            "fortune500Rank": 926,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Express",
+            "fortune500Rank": 927,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Teradyne",
+            "fortune500Rank": 928,
+            "glassdoorRating": 4.0
+        },
+        {
+            "companyTitle": "Werner Enterprises",
+            "fortune500Rank": 929,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Oaktree Capital Group",
+            "fortune500Rank": 930,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Woodward",
+            "fortune500Rank": 931,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "F5 Networks",
+            "fortune500Rank": 932,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Valvoline",
+            "fortune500Rank": 933,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Roadrunner Transportation Systems",
+            "fortune500Rank": 934,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "SemGroup",
+            "fortune500Rank": 935,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Catalent",
+            "fortune500Rank": 936,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Quorum Health",
+            "fortune500Rank": 937,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Universal",
+            "fortune500Rank": 938,
+            "glassdoorRating": 2.5
+        },
+        {
+            "companyTitle": "Nordson",
+            "fortune500Rank": 939,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "ResMed",
+            "fortune500Rank": 940,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Tower International",
+            "fortune500Rank": 941,
+            "glassdoorRating": 3.7
+        },
+        {
+            "companyTitle": "Fred\u2019s",
+            "fortune500Rank": 942,
+            "glassdoorRating": 2.7
+        },
+        {
+            "companyTitle": "Foundation Building Materials",
+            "fortune500Rank": 943,
+            "glassdoorRating": 2.7
+        },
+        {
+            "companyTitle": "Kennametal",
+            "fortune500Rank": 944,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Autodesk",
+            "fortune500Rank": 945,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Ply Gem Holdings",
+            "fortune500Rank": 946,
+            "glassdoorRating": 2.7
+        },
+        {
+            "companyTitle": "Central Garden & Pet",
+            "fortune500Rank": 947,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Matson",
+            "fortune500Rank": 948,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "EchoStar",
+            "fortune500Rank": 949,
+            "glassdoorRating": 2.7
+        },
+        {
+            "companyTitle": "Genesis Energy",
+            "fortune500Rank": 950,
+            "glassdoorRating": 2.7
+        },
+        {
+            "companyTitle": "SVB Financial Group",
+            "fortune500Rank": 951,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Itron",
+            "fortune500Rank": 952,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "Portland General Electric",
+            "fortune500Rank": 953,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "California Resources",
+            "fortune500Rank": 954,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Esterline Technologies",
+            "fortune500Rank": 955,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Delta Tucker Holdings",
+            "fortune500Rank": 956
+        },
+        {
+            "companyTitle": "AMN Healthcare Services",
+            "fortune500Rank": 957,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Griffon",
+            "fortune500Rank": 958,
+            "glassdoorRating": 4.0
+        },
+        {
+            "companyTitle": "Valhi",
+            "fortune500Rank": 959
+        },
+        {
+            "companyTitle": "Hexcel",
+            "fortune500Rank": 960,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "IDEXX Laboratories",
+            "fortune500Rank": 961,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Deluxe",
+            "fortune500Rank": 962,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "M/I Homes",
+            "fortune500Rank": 963,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Kraton",
+            "fortune500Rank": 964,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Stewart Information Services",
+            "fortune500Rank": 965,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Marriott Vacations Worldwide",
+            "fortune500Rank": 966,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "SPX FLOW",
+            "fortune500Rank": 967,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "ACCO Brands",
+            "fortune500Rank": 968,
+            "glassdoorRating": 3.5
+        },
+        {
+            "companyTitle": "Echo Global Logistics",
+            "fortune500Rank": 969,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Cadence Design Systems",
+            "fortune500Rank": 970,
+            "glassdoorRating": 4.0
+        },
+        {
+            "companyTitle": "Nuance Communications",
+            "fortune500Rank": 971,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Finish Line",
+            "fortune500Rank": 972,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "TransUnion",
+            "fortune500Rank": 973,
+            "glassdoorRating": 3.9
+        },
+        {
+            "companyTitle": "ServiceNow",
+            "fortune500Rank": 974,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Summit Materials",
+            "fortune500Rank": 975,
+            "glassdoorRating": 4.0
+        },
+        {
+            "companyTitle": "Engility Holdings",
+            "fortune500Rank": 976,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Ferrellgas Partners",
+            "fortune500Rank": 977,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Interactive Brokers Group",
+            "fortune500Rank": 978,
+            "glassdoorRating": 3.6
+        },
+        {
+            "companyTitle": "Stepan",
+            "fortune500Rank": 979,
+            "glassdoorRating": 3.2
+        },
+        {
+            "companyTitle": "Oceaneering International",
+            "fortune500Rank": 980,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Cimarex Energy",
+            "fortune500Rank": 981,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Rexnord",
+            "fortune500Rank": 982,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Beazer Homes USA",
+            "fortune500Rank": 983,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "MKS Instruments",
+            "fortune500Rank": 984,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Vail Resorts",
+            "fortune500Rank": 985,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "Ohio National Mutual",
+            "fortune500Rank": 986
+        },
+        {
+            "companyTitle": "TopBuild",
+            "fortune500Rank": 987,
+            "glassdoorRating": 4.2
+        },
+        {
+            "companyTitle": "Brown & Brown",
+            "fortune500Rank": 988,
+            "glassdoorRating": 3.8
+        },
+        {
+            "companyTitle": "Aerojet Rocketdyne Holdings",
+            "fortune500Rank": 989,
+            "glassdoorRating": 2.9
+        },
+        {
+            "companyTitle": "Barnes & Noble Education",
+            "fortune500Rank": 990,
+            "glassdoorRating": 5.0
+        },
+        {
+            "companyTitle": "Superior Energy Services",
+            "fortune500Rank": 991,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "VeriFone Systems",
+            "fortune500Rank": 992,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "Children\u2019s Place",
+            "fortune500Rank": 993,
+            "glassdoorRating": 3.3
+        },
+        {
+            "companyTitle": "Tribune Media",
+            "fortune500Rank": 994,
+            "glassdoorRating": 2.6
+        },
+        {
+            "companyTitle": "Healthcare Services Group",
+            "fortune500Rank": 995,
+            "glassdoorRating": 3.0
+        },
+        {
+            "companyTitle": "SiteOne Landscape Supply",
+            "fortune500Rank": 996,
+            "glassdoorRating": 3.4
+        },
+        {
+            "companyTitle": "Charles River Laboratories Intl",
+            "fortune500Rank": 997,
+            "glassdoorRating": 3.1
+        },
+        {
+            "companyTitle": "CoreLogic",
+            "fortune500Rank": 998,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "Ensign Group",
+            "fortune500Rank": 999,
+            "glassdoorRating": 2.8
+        },
+        {
+            "companyTitle": "HCP",
+            "fortune500Rank": 1000,
+            "glassdoorRating": 3.5
+        }
+    ]
+}
