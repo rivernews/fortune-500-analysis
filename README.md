@@ -1,6 +1,6 @@
 # fortune-500-analysis
 
-Data sampled on Nov 14, 2018. [See Github Page Here.](https://rivernews.github.io/fortune-500-analysis/)
+Data sampled on Nov 14, 2018. [See Demo Page Here.](https://rivernews.github.io/fortune-500-analysis/)
 
 ## TODO
 
@@ -12,7 +12,7 @@ Data sampled on Nov 14, 2018. [See Github Page Here.](https://rivernews.github.i
 - [x] Deploy to github by `npm run deploy`
 - ~~Scroll down to load more of the list~~
 - [x] [Scatter Plot](https://bl.ocks.org/sebg/6f7f1dd55e0c52ce5ee0dac2b2769f4b)
-- [ ] Zoom
+- [x] Zoom
   - [Easy zoom example](https://bl.ocks.org/rutgerhofste/5bd5b06f7817f0ff3ba1daa64dee629d)
 
 ## Dependencies (Frontend React)
