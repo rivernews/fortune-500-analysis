@@ -152,14 +152,10 @@ export default class Viz extends Component {
         this.yAxis.call(d3.axisLeft(this.yScale).scale(zoomedYScale));
 
         // update dots
-
-
-        console.log("het", d3.event.transform, ``)
         this.dots.attrs({
             "transform": d3.event.transform,
-            "r": `${4 / d3.event.transform.k}px`
+            // "r": `${4 / d3.event.transform.k}px`
         })
-        // this.dots.attr("transform", `translate(${d3.event.transform})`)
     }
 
     initializeScale() {
@@ -217,7 +213,7 @@ export default class Viz extends Component {
         this.dots = this.dots.enter().append("circle")
             .attrs({
                 class: `dot`,
-                r: 4,
+                r: 1.3,
                 cx: (d) => this.xScale(d.fortune500Rank),
                 cy: (d) => this.yScale(d.glassdoorRating),
                 fill: "red",
@@ -230,9 +226,9 @@ export default class Viz extends Component {
                         opacity: 0.9
                     })
                     .html(`
-                        <span>Company: ${d.companyTitle}</span>
-                        <span>Rating: ${d.glassdoorRating}</span>
-                        <span>Fortune Rank: ${d.fortune500Rank}</span>
+                        <span><strong>Company</strong>: ${d.companyTitle}</span>
+                        <span><strong>GD Rating</strong>: ${d.glassdoorRating}</span>
+                        <span><strong>Fortune Rank</strong>: ${d.fortune500Rank}</span>
                     `)
                     ;
             })
