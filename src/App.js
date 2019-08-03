@@ -6,6 +6,10 @@ import Viz from "./Viz";
 
 class App extends Component {
 
+    state = {
+        searchQueryString: ""
+    }
+
     constructor(props) {
         super(props)
         this.svgSize = {

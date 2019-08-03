@@ -12,7 +12,8 @@ export default class Viz extends Component {
     xScale;
     yScale;
     svg;
-    transitionDuration = 300;
+    transitionDuration = 500;
+    cleanedData = [];
 
     static propTypes = {
         // prop: PropTypes
@@ -30,24 +31,30 @@ export default class Viz extends Component {
         })
     }
 
+    state = {
+        searchQueryString: ""
+    }
+
     constructor(props) {
         super(props)
+        this.cleanedData = this.cleanData(jsonData.items)
     }
 
     componentDidMount() {
         this.setState({
-            data: this.cleanData(jsonData.items)
+            data: this.cleanedData
+        }, () => {
+            this.transition = d3.transition().duration(this.transitionDuration);
+
+            this.initializeScale()
+            this.initializeVizSpace()
+
+            this.initializeAxis()
+            this.updateDots()
         })
     }
 
     componentDidUpdate() {
-        this.transition = d3.transition().duration(this.transitionDuration);
-
-        this.initializeScale()
-        this.initializeVizSpace()
-
-        this.initializeAxis()
-        this.updateDots()
     }
 
     /**
@@ -93,8 +100,8 @@ export default class Viz extends Component {
                 viewBox: `0 0 ${this.getSvgOuterWidth()} ${this.getSvgOuterHeight()}`,
                 preserveAspectRatio: `xMidYMid meet`
             })
-        ;
-        
+            ;
+
         //make a clip path to prevent zooming from overflow
         let width = this.props.svgSize.availableSpace.width;
         let height = this.props.svgSize.availableSpace.height;
@@ -111,8 +118,8 @@ export default class Viz extends Component {
                 "transform": `translate(${this.props.svgSize.margin.left}, ${this.props.svgSize.margin.top})`,
                 // "clip-path": "url(#clip)"
             })
-        ;
-        
+            ;
+
         // initialize zoom
         this.zoom = d3.zoom()
             .scaleExtent([1, 5])
@@ -129,9 +136,9 @@ export default class Viz extends Component {
 
             })
             .call(this.zoom)
-        ;
+            ;
         this.svg.call(this.zoom);
-        
+
 
         // intialize tooltip
         this.tooltipBox = d3.select('body').append('div')
@@ -209,15 +216,20 @@ export default class Viz extends Component {
             return d.companyTitle;
         })
 
+        let defaultNewAttrs = {
+            class: `dot`,
+            r: d3.min([
+                2000 / this.state.data.length,
+                10
+            ]),
+            cx: (d) => this.xScale(d.fortune500Rank),
+            cy: (d) => this.yScale(d.glassdoorRating),
+            fill: "red",
+        };
+
         // new 
-        this.dots = this.dots.enter().append("circle")
-            .attrs({
-                class: `dot`,
-                r: 1.3,
-                cx: (d) => this.xScale(d.fortune500Rank),
-                cy: (d) => this.yScale(d.glassdoorRating),
-                fill: "red",
-            })
+        this.dots.enter().append("circle")
+            .attrs(defaultNewAttrs)
             .on("mousemove", (d) => {
                 this.tooltipBox
                     .styles({
@@ -239,17 +251,65 @@ export default class Viz extends Component {
                     })
                     ;
             })
-        // udpate
+            .styles({
+                opacity: 0
+            })
+            .transition(this.transition)
+            .styles({
+                opacity: 1
+            })
+
+        // udpate TODO
+        this.dots
+            .attrs(defaultNewAttrs)
+            .styles({
+                opacity: 0
+            })
+            .transition(this.transition)
+            .styles({
+                opacity: 1
+            })
 
         // remove
+        this.dots.exit()
+            .attrs({
+                class: `exit`
+            })
+            .styles({
+                opacity: 1
+            })
+            .transition(this.transition)
+            .styles({
+                opacity: 0
+            })
+            .remove()
+    }
+
+    onSearchBoxKeyUp = ($event) => {
+        if ($event.keyCode === 13) {
+            let searchQueryString = $event.target.value;
+            this.setState({
+                searchQueryString,
+                data: this.cleanedData.filter((d) => d.companyTitle.toLowerCase().includes(searchQueryString))
+            }, () => {
+                this.updateDots()
+            })
+        }
     }
 
     render() {
         return (
-            <div className="svg-container">
-                <svg className="svg-content" ref={node => this.node = node}
-                >
-                </svg>
+            <div className="viz-container">
+                <label htmlFor="search-box">Search </label>
+                <input id="search-box" type="text" onKeyUp={this.onSearchBoxKeyUp} ></input>
+                <p>
+                    Returns {(this.state.data) ? this.state.data.length : 0} result(s).
+                </p>
+                <div className="svg-container">
+                    <svg className="svg-content" ref={node => this.node = node}
+                    >
+                    </svg>
+                </div>
             </div>
         )
     }
